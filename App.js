@@ -5,7 +5,7 @@ import HomePage from './pages/HomePage';
 import ProductsPage from './pages/ProductsPage';
 import ProductDetailPage from './pages/ProductDetailPage';
 import CartPage from './pages/CartPage';
-import './index.css';
+import './style.css';
 
 const App = () => {
     const [products] = useState([
