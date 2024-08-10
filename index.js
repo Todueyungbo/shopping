@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client'; // Import React 18's ReactDOM client
-import './index.css'; // Import your global CSS
+import './style.css'; // Import your global CSS
 import App from './App';
 
 // Find the root element
