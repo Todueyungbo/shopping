@@ -1,0 +1,14 @@
+src/
+├── components/
+│   ├── Header.js
+│   ├── ProductCard.js
+│   ├── ProductList.js
+│   ├── ProductDetail.js
+│   └── Cart.js
+├── pages/
+│   ├── HomePage.js
+│   ├── ProductsPage.js
+│   ├── ProductDetailPage.js
+│   └── CartPage.js
+├── App.js
+└── index.css
